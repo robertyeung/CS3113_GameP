@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\moret\desktop\github game programming\cs3113\project_template\windows\nyucodebase\nyucodebase\main.cpp(145): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\moret\desktop\github game programming\cs3113\project_template\windows\nyucodebase\nyucodebase\main.cpp(170): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\moret\desktop\github game programming\cs3113\project_template\windows\nyucodebase\nyucodebase\main.cpp(175): warning C4305: 'initializing': truncation from 'double' to 'float'
+  NYUCodebase.vcxproj -> C:\Users\moret\Desktop\GitHub Game Programming\CS3113\project_template\Windows\NYUCodebase\Debug\NYUCodebase.exe
